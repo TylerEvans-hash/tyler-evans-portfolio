@@ -11,7 +11,7 @@ This web page is to showcase my skills in web development & design, to any poten
 https://tylerevans-hash.github.io/
 
 ## Screenshot of Page
-![Alt text](../assets/images/tylerevans-portfolio.png?raw=true "Portfolio Screenshot")
+![Alt text](main/assets/images/tylerevans-portfolio.png?raw=true "Portfolio Screenshot")
 
 ## Contribution
 * Tyler Evans
